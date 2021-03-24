@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "521480114261",
+    "project_id": "telegram-cl",
+    "storage_bucket": "telegram-cl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521480114261:android:2ce8fb4541083ac78984dc",
+        "android_client_info": {
+          "package_name": "com.hamidovhamid.telegram_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521480114261-k12s020mndhr02cnr8pl10vnduskcrfd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY9tL6KhbHU4GqNYhY64yEZ_xZx5bUt0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521480114261-k12s020mndhr02cnr8pl10vnduskcrfd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
